@@ -24,7 +24,7 @@ function Hello() {
       <div className="Hello">
         <img width="200" alt="icon" src={icon} />
       </div>
-      <h1 onClick={handleClick}>electron-react-boilerplate</h1>
+      <h1 onClick={handleClick}>electron-tcp-example</h1>
     </div>
   );
 }
